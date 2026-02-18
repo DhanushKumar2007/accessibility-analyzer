@@ -1,0 +1,14 @@
+node_modules/
+dist/
+build/
+*.pyc
+__pycache__/
+*.db
+.env
+.DS_Store
+data/uploads/*
+!data/uploads/.gitkeep
+venv/
+*.log
+.vscode/
+.idea/
